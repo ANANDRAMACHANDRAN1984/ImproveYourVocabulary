@@ -1,0 +1,8 @@
+Before clicking on Improvevocabulary.exe file to launch the application,
+configure below values in Improvevocabulary.exe.config file
+
+1. Download all files in this directory
+2. when you configure DontCreateExcelFile to false for the first time, application will create excel file in your computer.
+ensure you have given necessary permissions for file write. 
+3. other configurations are explained in the youtube video.
+configurations WordToFilter,TimerIntervalRunTime
